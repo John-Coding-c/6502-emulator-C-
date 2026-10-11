@@ -1,0 +1,32 @@
+Start testing: Oct 11 15:53 SE Asia Standard Time
+----------------------------------------------------------
+1/1 Testing: tests
+1/1 Test: tests
+Command: "D:/Project/6502 emulator/build/tests.exe"
+Directory: D:/Project/6502 emulator/build
+"tests" start time: Oct 11 15:53 SE Asia Standard Time
+Output:
+----------------------------------------------------------
+load/store
+adc binary overflow
+sbc binary borrow
+decimal mode
+jsr/rts
+stack
+indirect addressing
+jmp indirect page wrap
+brk/rti
+irq/nmi
+cycle counting
+illegal opcode halts
+
+All tests passed
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"tests" end time: Oct 11 15:53 SE Asia Standard Time
+"tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 11 15:53 SE Asia Standard Time

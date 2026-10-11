@@ -1,0 +1,6 @@
+D:/Project/6502 emulator/build/CMakeFiles/cpu6502.dir
+D:/Project/6502 emulator/build/CMakeFiles/emu6502.dir
+D:/Project/6502 emulator/build/CMakeFiles/tests.dir
+D:/Project/6502 emulator/build/CMakeFiles/test.dir
+D:/Project/6502 emulator/build/CMakeFiles/edit_cache.dir
+D:/Project/6502 emulator/build/CMakeFiles/rebuild_cache.dir

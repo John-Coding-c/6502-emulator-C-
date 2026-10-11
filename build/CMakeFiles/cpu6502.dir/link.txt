@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libcpu6502.a CMakeFiles/cpu6502.dir/src/cpu.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libcpu6502.a
